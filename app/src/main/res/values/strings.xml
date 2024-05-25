@@ -9,6 +9,7 @@
     <string name="selecciona_equipo">Selecciona el equipo:</string>
     <string name="anote_sus_observaciones">Anote sus observaciones</string>
     <string name="crear_reporte">Crear reporte</string>
+    <string name="titulo">Titulo</string>
 
     <string-array name="Sitios">
         <item>ARP-101</item>

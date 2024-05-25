@@ -15,7 +15,7 @@
         android:layout_marginTop="40dp"
         android:paddingTop="32dp"
         android:paddingBottom="16dp"
-        android:text="TeleSolver"
+        android:text="TeleRecordatory"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"

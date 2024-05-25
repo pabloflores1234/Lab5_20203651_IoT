@@ -48,6 +48,11 @@
         <item name="colorSurfaceContainerHigh">@color/md_theme_surfaceContainerHigh</item>
         <item name="colorSurfaceContainerHighest">@color/md_theme_surfaceContainerHighest</item>
     </style>
+    <style name="CrearTareaTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item name="colorAccent">@color/design_default_color_background</item>
+    </style>
 
     <style name="Theme.Lab5_20203651_IoT" parent="Base.Theme.Lab5_20203651_IoT" />
 </resources>
